@@ -17,8 +17,4 @@ render() {
 
 }
 
-
-
-
-
 export default ErrorBoundary;
